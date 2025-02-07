@@ -1,0 +1,20 @@
+body{
+    background-color: blanchedalmond;
+}
+#submit{
+    color:black;
+    margin-top:20px;
+    background-color:rgb(254, 137, 137);
+}
+#submit:hover{
+    color:white;
+    background-color:red;
+}   
+.nameBox{
+    margin:10px;
+    font-size: 20px;
+}
+.emailBox{
+    margin:10px;
+    font-size:30px;
+}
